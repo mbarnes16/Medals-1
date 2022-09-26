@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Medals-1/static/css/main.bd1779a6.css",
+    "main.js": "/Medals-1/static/js/main.cd9ac9e5.js",
+    "static/js/787.b5d40ff4.chunk.js": "/Medals-1/static/js/787.b5d40ff4.chunk.js",
+    "index.html": "/Medals-1/index.html",
+    "main.bd1779a6.css.map": "/Medals-1/static/css/main.bd1779a6.css.map",
+    "main.cd9ac9e5.js.map": "/Medals-1/static/js/main.cd9ac9e5.js.map",
+    "787.b5d40ff4.chunk.js.map": "/Medals-1/static/js/787.b5d40ff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd1779a6.css",
+    "static/js/main.cd9ac9e5.js"
+  ]
+}
